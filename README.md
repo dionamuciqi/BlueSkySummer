@@ -2,7 +2,7 @@
 
 An ice-cream shop website built with HTML, CSS, JavaScript, PHP, and MySQL. This project features a responsive design, dynamic product listings, and an order management system.
 
-> **Note**: This project is currently a work in progress. New features and improvements are being added.
+
 
 ## Features
 - **Responsive Design**: Optimized for both desktop and mobile devices.
